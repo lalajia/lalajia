@@ -1,8 +1,14 @@
 **Hello World 👋**
 
+:bowtie:
+
 - 🔭 I’m currently studying in [Northeastern Univeristy](https://vancouver.northeastern.edu/) as a Master Student of Computer Science
 - 🌱 I’m currently learning **JavaScript,Cloud Computing,Machine Learning...**
 - 📫 How to reach me: **selenazheng3@gmail.com**
+- ⚡ Fun fact: I like Strawberry 🍓 but I dont like the flavor of Strawberry like Yogurt🍶, Candy🍭, etc.
+
+ 
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+new+Roman&size=24&pause=1000&color=F74DC9AA&background=FFACEF00&center=true&vCenter=true&width=500&lines=Believe+you+can+and+you+are+halfway+there" alt="Typing SVG" /></a>
