@@ -12,6 +12,18 @@
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalajia">
 </p>
 
+<table style="width:100%">
+  <tr>
+    <th>Resources</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Cheat Sheet</td>
+    <td><a href="https://studytiltmr.notion.site/Cheat-Sheets-f25117b55bbe4a81870b12424f23155c?pvs=4">Notion Link</a></td>
+  </tr>
+</table>
+<br>
+
 **Connect with me:**
 
 <p align="left">
@@ -60,9 +72,9 @@
     <p style="max-width: 80%;max-height: 80%;display: inline-block;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalajia&show_icons=true&locale=en&layout=compact&bg_color=151515&text_color=999999&title_color=ffffff">
     </p>
-    <p style="max-width: 60%;max-height: 60%;display: inline-block;">
+    <!-- <p style="max-width: 60%;max-height: 60%;display: inline-block;">
         <img src="https://github-readme-stats.vercel.app/api?username=lalajia&show_icons=true&locale=en&title_color=ffffff&bg_color=151515&text_color=999999&icon_color=bb2acf">
-    </p>
+    </p> -->
 </p>
 
 <!-- **Certification** -->
