@@ -1,0 +1,6 @@
+(dynamic sentence)https://readme-typing-svg.herokuapp.com/demo/
+(badge)https://shields.io/
+(Dev Matrics)https://github.com/athul/waka-readme
+(badge)https://dev.to/envoy_/150-badges-for-github-pnk
+(icon)https://icons8.com/
+(good example)https://github.com/JackHCC/JackHCC/blob/main/README.md
