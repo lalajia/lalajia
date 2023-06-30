@@ -1,6 +1,5 @@
 **Hello World 👋**
 
-:bowtie:
 
 - 🔭 I’m currently studying in [Northeastern Univeristy](https://vancouver.northeastern.edu/) as a Master Student of Computer Science
 - 🌱 I’m currently learning **JavaScript,Cloud Computing,Machine Learning...**
